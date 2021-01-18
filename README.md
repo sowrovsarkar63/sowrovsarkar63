@@ -5,11 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on personal project
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on personal project 
+- 🌱 I’m currently learning  web security and enterprise level web application development 
 - 👯 I’m looking to collaborate on opensource project
-- 🤔 I’m looking for help with development related concept
-- 💬 Ask me about Anything
-- 📫 How to reach me:mhsstudio63@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: Drink to get energy
+- 👋 I’m looking for Project to work and get paid.
+- 💬 Ask me Anything about programming 
+- 📫 How to reach me:mhsstudio63@gmail.com or sowrovsarkar63@gmail.com
+- ⚡ Refreshment: Drink to get energy
+- ✨ Love to explore : Hacking and breaking the security 
+- 👋 Open minded and life time learner 
