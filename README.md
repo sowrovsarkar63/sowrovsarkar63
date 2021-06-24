@@ -8,5 +8,7 @@
 Here are some ideas to get you started:
 -->
 <h1 align="center">❰ About Me ❗</h1>
-<p align="center">Full-Stack Web Application Developer | Open Source Contributor | JavaScript And Python Lover | Reckless Bike Rider</p>
+<p align="center">Full-Stack Web Application Developer | Open Source Contributor | JavaScript And Python Lover | Reckless Bike Rider
+I Love To Explore New Tools And Technique To Solve Problem In Different Approch. Passionate About Sharing Knowledge And Teach Other Some Critical Skill ,Tools And Concept Through Blog Article , Facebook/Twitter/Linkedin Post .
+</p>
 
