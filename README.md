@@ -15,11 +15,11 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approch.
 
 ## Log:
 <a href="https://github.com/sowrovsarkar63/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&count_private=true&show_icons=true&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&count_private=true&show_icons=true&theme=dark" style = "max-width:100%" />
 </a>
 
 <a href="https://github.com/sowrovsarkar63/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" style = "max-width:100%" />
 </a>
 
 
