@@ -16,4 +16,4 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approch.
 ## Log:
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&count_private=true&show_icons=true&theme=dark)
