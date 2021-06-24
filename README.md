@@ -19,7 +19,7 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approch.
 </a>
 
 <a href="https://github.com/sowrovsarkar63/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" />
 </a>
 
 
