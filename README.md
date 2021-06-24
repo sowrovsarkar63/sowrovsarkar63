@@ -1,4 +1,4 @@
-<img align="center" width="100" height="100" src="https://pbs.twimg.com/media/E4n2zKKUYAEZBz5?format=jpg&name=large">
+<img align="center" width="100%" height="100%" src="https://pbs.twimg.com/media/E4n2zKKUYAEZBz5?format=jpg&name=large">
 
 
 ### Hi I'm Sowrov .I love to code👋
