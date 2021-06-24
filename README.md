@@ -25,5 +25,6 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approch.
 
 ##  Specialist Tech Stack: 
 
-- <h2>MERN Stack</h2>
+- <h3>MERN Stack </h3>
+-- Mongodb , Express Js , React Js , Node Js
 
