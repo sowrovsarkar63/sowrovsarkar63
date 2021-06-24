@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-### About Me !
+### ❰ About Me ❗
 - 🔭 I’m currently working on personal project 
 - 🌱 I’m currently learning  web security and enterprise level web application development 
 - 👯 I’m looking to collaborate on opensource project
