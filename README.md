@@ -23,5 +23,7 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approch.
 </a>
  </p>
 
-##  Tools & Technologies
+##  Specialist Tech Stack: 
+
+- <h2>MERN Stack</h2>
 
