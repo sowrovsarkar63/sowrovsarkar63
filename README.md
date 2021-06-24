@@ -15,7 +15,7 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approch.
 
 ## Log:
 <a href="https://github.com/sowrovsarkar63/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&count_private=true&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&count_private=true&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/sowrovsarkar63/github-readme-stats">
