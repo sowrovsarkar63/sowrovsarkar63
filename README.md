@@ -15,15 +15,6 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approch.
 </p>
 
 
-## Log:
-<p>
-<a href="https://github.com/sowrovsarkar63/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&layout=compact&count_private=true&show_icons=true&theme=dark&hide_title=true" style = "max-width:100%;" />
-</a>
-<a href="https://github.com/sowrovsarkar63/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" style = "max-width:100%;" />
-</a>
- </p>
 
 ##  Specialist Tech Stack: 
 
@@ -38,5 +29,17 @@ Get in touch with me through the attached links: </p>
 <a href="mailto:dev.sowrovsarkar63@gmail.com">
   <img alt="Sowrov's Email" src="https://camo.githubusercontent.com/fe676520cae090176682edd8c1e503ddfab8dcf59a1ba778317d4dee1fef15b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d452d2d6d61696c2d3141343733303f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
 </a>
+
+
+## Log:
+<p>
+<a href="https://github.com/sowrovsarkar63/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&layout=compact&count_private=true&show_icons=true&theme=dark&hide_title=true" style = "max-width:100%;" />
+</a>
+<a href="https://github.com/sowrovsarkar63/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" style = "max-width:100%;" />
+</a>
+ </p>
+
 
 
