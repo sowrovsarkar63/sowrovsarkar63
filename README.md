@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 <h2 align="center">❰ About Me ❗</h2>
-<p align="center">Front End Developer | React Js Specialist | JavaScript's Fan .
+<p align="center">Front End Developer ||  React Js Specialist || JavaScript's Fan .
 I Love To Explore New Tools And Technique To Solve Problem In Different Approch. Passionate About Sharing Knowledge And Teach Other Some Critical Skill ,Tools And Concept Through Blog Article , Facebook/Twitter/Linkedin Post .
 </p>
 
