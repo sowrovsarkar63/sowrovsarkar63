@@ -10,16 +10,18 @@
 Here are some ideas to get you started:
 -->
 <h2 align="center">❰ About Me ❗</h2>
-<p align="center">Full-Stack Web Application Developer | Open Source Contributor | JavaScript's Fan .
+<p align="center">Front End Developer | React Js Specialist | JavaScript's Fan .
 I Love To Explore New Tools And Technique To Solve Problem In Different Approch. Passionate About Sharing Knowledge And Teach Other Some Critical Skill ,Tools And Concept Through Blog Article , Facebook/Twitter/Linkedin Post .
 </p>
 
 
 
-##  Specialist Tech Stack: 
-
+##  Tech Stack: 
 - <h3>MERN Stack </h3>
 -- Mongodb , Express Js , React Js , Node Js
+
+## Specialist 
+- <h3>React Js And Front-End Development</h3>
 ##
 <p align="left"> Are you interested in collaboration? I'm up to any inspiring projects. side Image 
 Get in touch with me through the attached links: </p>
@@ -40,6 +42,5 @@ Get in touch with me through the attached links: </p>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" style = "max-width:100%;" />
 </a>
  </p>
-
 
 
