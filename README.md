@@ -21,7 +21,7 @@ I Love To Explore New Tools And Technique To Solve Problem In Different Approach
 -- Mongodb , Express Js , React Js , Node Js
 
 ## Specialist :
--- <h3>React Js And Front-End Development</h3>
+-- <strong>React Js And Front-End Development</strong>
 ##
 <p align="left"> Are you interested in collaboration? I'm up to any inspiring projects. side Image 
 Get in touch with me through the attached links: </p>
