@@ -36,10 +36,10 @@ Get in touch with me through the attached links: </p>
 ## Log:
 <p>
 <a href="https://github.com/sowrovsarkar63/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=sowrovsarkar63&layout=compact&count_private=true&show_icons=true&theme=dark&hide_title=true" style = "max-width:100%;" />
+  <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=sowrovsarkar63&layout=compact&count_private=true&show_icons=true&theme=dark&hide_title=true" style = "max-width:100%;" />
 </a>
 <a href="https://github.com/sowrovsarkar63/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" style = "max-width:100%;" />
+  <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sowrovsarkar63&layout=compact&theme=dark" style = "max-width:100%;" />
 </a>
  </p>
 
